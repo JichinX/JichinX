@@ -1,47 +1,47 @@
 <!-- 酷炫的动态背景效果 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Hey%20there!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20JichinX&descAlignY=55&descSize=25"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=你好呀!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=我是%20JichinX&descAlignY=55&descSize=25"/>
 
 <!-- 打字效果 -->
 <p align="center">
   <a href="https://github.com/JichinX">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=全栈开发者+%F0%9F%92%BB;AI+探索者+%F0%9F%A4%96;开源贡献者+%F0%9F%8C%9F" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- 分割线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👨‍💻 About Me
+## 👨‍💻 关于我
 
 ```yaml
-name: 许继昌 (JichinX)
-location: China 🇨🇳
-current_focus: Full-Stack Development & AI
-hobbies: Coding, Learning New Tech, Coffee ☕
-motto: "Code is poetry, debug is reality"
+姓名: 许继昌 (JichinX)
+坐标: 中国 🇨🇳
+专注领域: 全栈开发 & 人工智能
+爱好: 编程、学习新技术、咖啡 ☕
+座右铭: "代码如诗，调试即生活"
 ```
 
 <!-- 关于我的卡片 -->
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🎯 What I Do</h3>
+<h3 align="center">🎯 我在做什么</h3>
 <p align="center">
   <br/>
-  🔥 Building scalable web applications<br/>
-  🤖 Exploring AI/ML technologies<br/>
-  🚀 Contributing to open source<br/>
-  📚 Always learning something new
+  🔥 构建可扩展的 Web 应用<br/>
+  🤖 探索 AI/ML 技术<br/>
+  🚀 为开源项目做贡献<br/>
+  📚 持续学习新知识
 </p>
 </td>
 <td width="50%">
-<h3 align="center">🌍 Fun Facts</h3>
+<h3 align="center">🌍 有趣的事</h3>
 <p align="center">
   <br/>
-  ☕ Coffee-powered developer<br/>
-  🎮 Gamer when not coding<br/>
-  📖 Love reading sci-fi novels<br/>
-  🌐 Speak Chinese & English
+  ☕ 咖啡驱动的开发者<br/>
+  🎮 不写代码时在打游戏<br/>
+  📖 喜欢读科幻小说<br/>
+  🌐 会说中文和英文
 </p>
 </td>
 </tr>
@@ -50,28 +50,28 @@ motto: "Code is poetry, debug is reality"
 <!-- 分割线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 <!-- 编程语言 -->
-<h3 align="center">Languages</h3>
+<h3 align="center">编程语言</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,java,cpp,rust&perline=7" />
 </p>
 
 <!-- 前端 -->
-<h3 align="center">Frontend</h3>
+<h3 align="center">前端开发</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,sass&perline=5" />
 </p>
 
 <!-- 后端 -->
-<h3 align="center">Backend</h3>
+<h3 align="center">后端开发</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis&perline=7" />
 </p>
 
 <!-- 工具 -->
-<h3 align="center">Tools & Platforms</h3>
+<h3 align="center">工具和平台</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,vscode,vim&perline=8" />
 </p>
@@ -79,7 +79,7 @@ motto: "Code is poetry, debug is reality"
 <!-- 分割线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## 📊 GitHub 统计
 
 <p align="center">
   <a href="https://github.com/JichinX">
@@ -98,7 +98,7 @@ motto: "Code is poetry, debug is reality"
 <!-- 分割线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Achievements
+## 🏆 成就
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -109,10 +109,10 @@ motto: "Code is poetry, debug is reality"
 <!-- 分割线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Let's Connect
+## 🤝 联系我
 
 <p align="center">
-  <i>Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!</i>
+  <i>欢迎探索我的仓库，如果觉得有趣别忘了点个 ⭐ 哦！</i>
 </p>
 
 <!-- 底部波浪效果 -->
@@ -120,5 +120,5 @@ motto: "Code is poetry, debug is reality"
 
 <!-- 访客计数 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JichinX&color=4ECDC4&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=JichinX&color=4ECDC4&style=flat-square&label=主页访问量"/>
 </p>
