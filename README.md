@@ -4,7 +4,7 @@
 <!-- 打字效果 -->
 <p align="center">
   <a href="https://github.com/JichinX">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Android+Developer+%F0%9F%93%B1;Backend+Engineer+%F0%9F%96%A5%EF%B8%8F;AI+Agent+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,9 +16,10 @@
 ```yaml
 name: 许继昌 (JichinX)
 location: China 🇨🇳
-current_focus: Full-Stack Development & AI
-hobbies: Coding, Learning New Tech, Coffee ☕
-motto: "Code is poetry, debug is reality"
+focus: Android Development & Backend Services
+current_exploration: AI Agent Development
+os: macOS 🍎
+motto: "Build robust systems, ship quality code"
 ```
 
 <!-- 关于我的卡片 -->
@@ -28,20 +29,20 @@ motto: "Code is poetry, debug is reality"
 <h3 align="center">🎯 What I Do</h3>
 <p align="center">
   <br/>
-  🔥 Building scalable web applications<br/>
-  🤖 Exploring AI/ML technologies<br/>
-  🚀 Contributing to open source<br/>
-  📚 Always learning something new
+  📱 Android app development (Java/Kotlin)<br/>
+  🚀 Backend services with Go & Python<br/>
+  🐳 Containerized deployments (Docker/K8s)<br/>
+  🤖 Exploring AI agent technologies
 </p>
 </td>
 <td width="50%">
-<h3 align="center">🌍 Fun Facts</h3>
+<h3 align="center">🌍 Tech Environment</h3>
 <p align="center">
   <br/>
-  ☕ Coffee-powered developer<br/>
-  🎮 Gamer when not coding<br/>
-  📖 Love reading sci-fi novels<br/>
-  🌐 Speak Chinese & English
+  💻 IDE: JetBrains / Zed / VS Code<br/>
+  🐧 Familiar with *nix systems<br/>
+  🍎 Development on macOS<br/>
+  📚 Continuous learner
 </p>
 </td>
 </tr>
@@ -55,25 +56,41 @@ motto: "Code is poetry, debug is reality"
 <!-- 编程语言 -->
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,java,cpp,rust&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,go,python&perline=4" />
 </p>
 
-<!-- 前端 -->
-<h3 align="center">Frontend</h3>
+<!-- 移动开发 -->
+<h3 align="center">Android Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,sass&perline=5" />
+  <img src="https://skillicons.dev/icons?i=android,gradle,kotlin&perline=3" />
 </p>
 
-<!-- 后端 -->
-<h3 align="center">Backend</h3>
+<!-- 后端框架 -->
+<h3 align="center">Backend Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis&perline=7" />
+  <img src="https://skillicons.dev/icons?i=gin,fastapi&perline=2" />
+  <br/>
+  <sub>Beego • GoFrame • SQLAlchemy</sub>
 </p>
 
-<!-- 工具 -->
-<h3 align="center">Tools & Platforms</h3>
+<!-- 数据库 -->
+<h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,vscode,vim&perline=8" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=3" />
+</p>
+
+<!-- DevOps -->
+<h3 align="center">DevOps & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux&perline=5" />
+</p>
+
+<!-- 编辑器 -->
+<h3 align="center">IDE & Editors</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,pycharm,go,vscode,vim&perline=5" />
+  <br/>
+  <sub>JetBrains IDEs • Zed • VS Code</sub>
 </p>
 
 <!-- 分割线 -->
@@ -112,7 +129,7 @@ motto: "Code is poetry, debug is reality"
 ## 🤝 Let's Connect
 
 <p align="center">
-  <i>Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!</i>
+  <i>Feel free to explore my repositories! Currently diving deep into AI agent development 🤖</i>
 </p>
 
 <!-- 底部波浪效果 -->
