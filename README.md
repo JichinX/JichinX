@@ -53,44 +53,17 @@ motto: "Build robust systems, ship quality code"
 
 ## 🛠️ Tech Stack
 
-<!-- 编程语言 -->
-<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,go,python&perline=4" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,go,python,android,postgres,mysql,redis,docker,kubernetes,git,linux,idea,vscode" />
 </p>
 
-<!-- 移动开发 -->
-<h3 align="center">Android Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,gradle,kotlin&perline=3" />
-</p>
-
-<!-- 后端框架 -->
-<h3 align="center">Backend Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gin,fastapi&perline=2" />
-  <br/>
-  <sub>Beego • GoFrame • SQLAlchemy</sub>
-</p>
-
-<!-- 数据库 -->
-<h3 align="center">Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=3" />
-</p>
-
-<!-- DevOps -->
-<h3 align="center">DevOps & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux&perline=5" />
-</p>
-
-<!-- 编辑器 -->
-<h3 align="center">IDE & Editors</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,pycharm,go,vscode,vim&perline=5" />
-  <br/>
-  <sub>JetBrains IDEs • Zed • VS Code</sub>
+  <b>Languages:</b> Java • Kotlin • Go • Python &nbsp;&nbsp;&nbsp;
+  <b>Mobile:</b> Android &nbsp;&nbsp;&nbsp;
+  <b>Backend:</b> Gin • Beego • GoFrame • FastAPI • SQLAlchemy<br/>
+  <b>Databases:</b> PostgreSQL • MySQL • Redis &nbsp;&nbsp;&nbsp;
+  <b>DevOps:</b> Docker • K8s &nbsp;&nbsp;&nbsp;
+  <b>IDE:</b> JetBrains • Zed • VS Code
 </p>
 
 <!-- 分割线 -->

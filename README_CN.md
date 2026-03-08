@@ -53,44 +53,17 @@
 
 ## 🛠️ 技术栈
 
-<!-- 编程语言 -->
-<h3 align="center">编程语言</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,go,python&perline=4" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,go,python,android,postgres,mysql,redis,docker,kubernetes,git,linux,idea,vscode" />
 </p>
 
-<!-- 移动开发 -->
-<h3 align="center">Android 开发</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,gradle,kotlin&perline=3" />
-</p>
-
-<!-- 后端框架 -->
-<h3 align="center">后端框架</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gin,fastapi&perline=2" />
-  <br/>
-  <sub>Beego • GoFrame • SQLAlchemy</sub>
-</p>
-
-<!-- 数据库 -->
-<h3 align="center">数据库</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=3" />
-</p>
-
-<!-- DevOps -->
-<h3 align="center">DevOps & 工具</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux&perline=5" />
-</p>
-
-<!-- 编辑器 -->
-<h3 align="center">IDE & 编辑器</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,pycharm,go,vscode,vim&perline=5" />
-  <br/>
-  <sub>JetBrains 系列 • Zed • VS Code</sub>
+  <b>语言：</b> Java • Kotlin • Go • Python &nbsp;&nbsp;&nbsp;
+  <b>移动：</b> Android &nbsp;&nbsp;&nbsp;
+  <b>后端：</b> Gin • Beego • GoFrame • FastAPI • SQLAlchemy<br/>
+  <b>数据库：</b> PostgreSQL • MySQL • Redis &nbsp;&nbsp;&nbsp;
+  <b>容器：</b> Docker • K8s &nbsp;&nbsp;&nbsp;
+  <b>工具：</b> JetBrains • Zed • VS Code
 </p>
 
 <!-- 分割线 -->
